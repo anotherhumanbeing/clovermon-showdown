@@ -37167,7 +37167,7 @@ export const Pokedex: { [speciesid: string]: SpeciesData } = {
 		num: 34487,
 		name: "Montusk",
 		types: ["Ground", "Rock"],
-		baseStats: {hp: 155, atk: 135, def: 145, spa: 20, spd: 70, spe: 20},
+		baseStats: {hp: 155, atk: 135, def: 145, spa: 20, spd: 20, spe: 70},
 		abilities: {0: "Kantonaut", 1: "Rock Head", H: "Sand Rush"},
 		heightm: 1.9,
 		weightkg: 120,
